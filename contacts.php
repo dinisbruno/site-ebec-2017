@@ -37,7 +37,7 @@
                 <div class="team-member">
                     <img src="<?php echo base_url('assets/img/contacts/PedroReis.jpg')?>" class="img-responsive img-circle img-contact" alt="">
                     <h4>Pedro Reis</h4>
-                    <p class="text-muted">Coordenador da EBEC Aveiro</p>
+                    <p class="text-muted">Coordenador da dsadEBEC Aveiro</p>
                     <p>
                         <i class="fa fa-envelope"></i><a href="mailto:pedro.reis@BEST.eu.org" > pedro.reis@BEST.eu.org  </a><br/>
                         <i class="fa fa-phone"></i> <b>919 433 150</b>
